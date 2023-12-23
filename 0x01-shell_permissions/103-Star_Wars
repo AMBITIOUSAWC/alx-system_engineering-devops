@@ -1,2 +1,4 @@
 #!/bin/bash
-talent towel.blinkenlights.nl
+# Star Wars Episode IV in ASCII art
+telnet towel.blinkenlights.nl
+
