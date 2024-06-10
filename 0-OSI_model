@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# This script prints the layers of the OSI model
+
+echo "OSI Model Layers:"
+echo "7. Application"
+echo "6. Presentation"
+echo "5. Session"
+echo "4. Transport"
+echo "3. Network"
+echo "2. Data Link"
+echo "1. Physical"
